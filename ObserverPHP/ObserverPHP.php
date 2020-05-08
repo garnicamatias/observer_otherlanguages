@@ -1,3 +1,5 @@
+<?php
+
 SplSubject {
     /* Methods */
     abstract public void attach ( SplObserver $observer )
